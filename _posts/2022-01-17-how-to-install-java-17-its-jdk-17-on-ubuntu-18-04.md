@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何在 ubuntu 18.04 上安装 java 17 LST（JDK 17）"
-date:   2022-01-16 09:53:42 +0800
+date:   2022-01-17 09:53:42 +0800
 categories: NY5667 update
 ---
 [参考文章（how-to-install-java-17-lts-jdk-17-on-ubuntu-20-04）][how-to-install-java-17-lts-jdk-17-on-ubuntu-20-04]
