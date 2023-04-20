@@ -50,7 +50,7 @@ YApi中获取配置内容
 
 4. 配置后效果
 
-![](http://zaq1.cloud/images/Snipaste_2023-04-20_13-27-38.png?imageslim)
+![](http://zaq1.cloud/images/Snipaste_2023-04-20_13-53-32.png?imageslim)
 
 # 三、上传接口至YApi
 
