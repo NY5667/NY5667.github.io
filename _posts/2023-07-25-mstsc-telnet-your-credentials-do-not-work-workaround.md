@@ -15,7 +15,7 @@ username:s:SUPCON\administrator
 domain:s:SUPCON
 ```
 
-# 网上相关链接资源
+# 设置配置项，远程访问不需要输入密码
 
 [https://www.cnblogs.com/llhua/p/4159658.html][4159658]
 
