@@ -13,7 +13,7 @@ LoadModule proxy_module modules/mod_proxy.so
 LoadModule proxy_http_module modules/mod_proxy_http.so
 ```
 4. 在配置文件的末尾添加以下代理设置（假设您希望将所有请求都转发到 `10.54.4.21:8080`）：
-![](https://cdn.jsdelivr.net/gh/NY5667/CDN/images/Snipaste_2023-09-21_16-56-33.png)
+![](https://cdn.jsdelivr.net/gh/NY5667/CDN/images/Snipaste_2023-09-21_16-56-33.png)  
 如果您只想将特定路径下的请求进行反向代理，可以将 `/` 替换为相应的路径。
 5. 增加 `Listen` 配置项，指定反向代理要用的端口
 ```
@@ -24,4 +24,7 @@ Listen 8081
 Listen 9000
 ```
 6. 保存并关闭配置文件。
-7. 重启 Apache 服务器，以使配置更改生效。
+7. 重启 Apache 服务器，以使配置更改生效。  
+8. Apache 的配置文件[https://github.com/ny5667/apache-reverse-proxy/blob/main/httpd.conf][httpd.conf]
+
+[httpd.conf]: https://github.com/ny5667/apache-reverse-proxy/blob/main/httpd.conf

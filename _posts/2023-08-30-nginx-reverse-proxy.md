@@ -44,5 +44,9 @@ sudo systemctl restart nginx
 ```
 5. Done:
 * Nginx is now configured as a reverse proxy, forwarding requests to the website hosted at `192.168.220.73:8080`.
+6. Nginx default configuration file[https://github.com/ny5667/nginx-reverse-proxy/blob/main/default][default]
 
 Please note that the above configuration is a basic example, and you may need to make appropriate modifications based on your specific requirements, such as changing the domain, port, or other proxy-related settings. Also, ensure that your server can access the website hosted at `192.168.220.73:8080`.
+
+
+[default]: https://github.com/ny5667/nginx-reverse-proxy/blob/main/default
