@@ -7,9 +7,9 @@ categories: NY5667 update
 
 # Windows使用WinSCP.com连接服务器，并执行相关指令
 
-![](https://cdn.jsdelivr.net/gh/NY5667/CDN/images/Snipaste_2023-06-30_09-06-16.png)
+![](https://cdn.jsdelivr.net/gh/NY5667/cdn/images/Snipaste_2023-06-30_09-06-16.png)
 
-![](https://cdn.jsdelivr.net/gh/NY5667/CDN/images/Snipaste_2023-06-30_09-06-51.png)
+![](https://cdn.jsdelivr.net/gh/NY5667/cdn/images/Snipaste_2023-06-30_09-06-51.png)
 
 ```
 @echo off

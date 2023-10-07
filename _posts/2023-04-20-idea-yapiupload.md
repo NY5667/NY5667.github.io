@@ -17,7 +17,7 @@ categories: NY5667 update
 
 # 一、 IDEA安装YapiUpload插件
 
-![](https://cdn.jsdelivr.net/gh/NY5667/CDN/images/Snipaste_2023-05-04_13-57-34.png)
+![](https://cdn.jsdelivr.net/gh/NY5667/cdn/images/Snipaste_2023-05-04_13-57-34.png)
 
 安装后重启idea生效
 
@@ -38,23 +38,23 @@ YApi中获取配置内容
 
 1. 项目id
 
-![](https://cdn.jsdelivr.net/gh/NY5667/CDN/images/Snipaste_2023-04-20_13-22-36.png)
+![](https://cdn.jsdelivr.net/gh/NY5667/cdn/images/Snipaste_2023-04-20_13-22-36.png)
 
 2. token
 
-![](https://cdn.jsdelivr.net/gh/NY5667/CDN/images/Snipaste_2023-04-20_13-22-49.png)
+![](https://cdn.jsdelivr.net/gh/NY5667/cdn/images/Snipaste_2023-04-20_13-22-49.png)
 
 3. menu
 
-![](https://cdn.jsdelivr.net/gh/NY5667/CDN/images/Snipaste_2023-04-20_13-23-07.png)
+![](https://cdn.jsdelivr.net/gh/NY5667/cdn/images/Snipaste_2023-04-20_13-23-07.png)
 
 4. 配置后效果
 
-![](https://cdn.jsdelivr.net/gh/NY5667/CDN/images/Snipaste_2023-04-20_13-53-32.png)
+![](https://cdn.jsdelivr.net/gh/NY5667/cdn/images/Snipaste_2023-04-20_13-53-32.png)
 
 # 三、上传接口至YApi
 
-![](https://cdn.jsdelivr.net/gh/NY5667/CDN/images/Snipaste_2023-04-20_13-23-55.png)
+![](https://cdn.jsdelivr.net/gh/NY5667/cdn/images/Snipaste_2023-04-20_13-23-55.png)
 
 
 [YapiIdeaUploadPlugin]: https://github.com/xujiaji/YapiIdeaUploadPlugin

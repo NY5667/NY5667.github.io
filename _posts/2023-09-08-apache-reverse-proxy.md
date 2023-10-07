@@ -13,7 +13,7 @@ LoadModule proxy_module modules/mod_proxy.so
 LoadModule proxy_http_module modules/mod_proxy_http.so
 ```
 4. 在配置文件的末尾添加以下代理设置（假设您希望将所有请求都转发到 `10.54.4.21:8080`）：
-![](https://cdn.jsdelivr.net/gh/NY5667/CDN/images/Snipaste_2023-09-21_16-56-33.png)  
+![](https://cdn.jsdelivr.net/gh/NY5667/cdn/images/Snipaste_2023-09-21_16-56-33.png)  
 如果您只想将特定路径下的请求进行反向代理，可以将 `/` 替换为相应的路径。
 5. 增加 `Listen` 配置项，指定反向代理要用的端口
 ```
